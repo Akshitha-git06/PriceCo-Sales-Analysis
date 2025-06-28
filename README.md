@@ -54,7 +54,7 @@ To use data visualization to support business strategy development through clear
 
 If you enjoyed this project or have feedback, feel free to connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
 
